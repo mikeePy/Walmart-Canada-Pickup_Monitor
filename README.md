@@ -5,4 +5,6 @@ During our first lockdown due to covid, I have tried many times to order groceri
 
 I ran it for a few days on my PI zero powered by a battery bank and I have found the pattern of people in terms of when they started reserving spots in my local Walmart and have found the best optimal time for me to order mine as well.
 
+A copy of the screenshot taken is shown below:
+
 ![Example screenshot](screenshot.png)
